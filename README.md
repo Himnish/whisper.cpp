@@ -655,4 +655,4 @@ Some of the examples are even ported to run in the browser using WebAssembly. Ch
 If you have any kind of feedback about this project feel free to use the Discussions section and open a new topic.
 You can use the [Show and tell](https://github.com/ggerganov/whisper.cpp/discussions/categories/show-and-tell) category
 to share your own projects that use `whisper.cpp`. If you have a question, make sure to check the
-[Frequently asked questions (#126)](https://github.com/ggerganov/whisper.cpp/discussions/126) discussion.
+[Frequently asked questions (#126)](https://github.com/ggerganov/whisper.cpp/discussions/126) discussion
