@@ -11,7 +11,7 @@
 #include <thread>
 #include <vector>
 
-constexpr int N_THREAD = 8;
+constexpr int N_THREAD = 16; // default is 8
 
 std::vector<struct whisper_context *> g_contexts(4, nullptr);
 
